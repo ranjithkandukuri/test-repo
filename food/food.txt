@@ -1,0 +1,15 @@
+Appetizers:
+chicken 65
+fish fry
+tandoori chicken
+
+Main course:
+chicken biryani
+chicken chettinad
+
+Naan:
+Butter naan
+plain naan
+
+Desert:
+Ice cream
