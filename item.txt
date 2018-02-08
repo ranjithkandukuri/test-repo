@@ -2,3 +2,4 @@ Things todo:
 Buy wallet
 finish git
 finish python
+finish git real2
