@@ -1,1 +1,1 @@
-Git testing. You are awesome!
+Git merge testing. You are awesome!
