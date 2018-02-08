@@ -1,2 +1,4 @@
 Things todo:
 Buy wallet
+finish git
+finish python
