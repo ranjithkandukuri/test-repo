@@ -1,2 +1,4 @@
 Things todo:
 Buy wallet
+finish AWS
+finish Docker
