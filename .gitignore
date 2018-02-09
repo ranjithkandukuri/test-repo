@@ -1,0 +1,3 @@
+#files/folders that GIT has to ignore
+logs/*
+testcopy.txt
